@@ -1,6 +1,5 @@
 # Wild_Fire_Detection_model
-a model that takes pictures from space and Detecte wildfires
-as I work on a satellite I decide to create a model that helps humans to survive Natural disasters
-I created 3 models 
-and spilt the data into 3 samples
-and in the end, I got 96 % accuracy on the test set
+Introduction:
+
+- This repository contains code for a wildfire detection model built using TensorFlow, a popular deep learning framework. The model is designed to detect the presence of 
+ wildfires in satellite imagery with a high degree of accuracy.
